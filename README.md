@@ -1,2 +1,0 @@
-# RMPRB
-RemigiuszMarciniakProjektRekrutacyjnyBEAN
